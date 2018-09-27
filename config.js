@@ -1,3 +1,3 @@
-exports.PREFIX = 't!'
+exports.PREFIX = '!'
 
 
