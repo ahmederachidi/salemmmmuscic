@@ -1,4 +1,4 @@
-token=NDg4ODE1ODExMzczNDMyODQy.Do7C4g.7vmY8KYn32MqjDK86hB9-42s4kQ
+token=NDg4ODE1ODExMzczNDMyODQy.DpAWpQ._eQcabtfYbU3h6aya1px3Bg8BBo
 owner=469966374781976597
 prefix==!
 game=Salem Bots!
